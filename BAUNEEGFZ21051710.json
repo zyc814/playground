@@ -1,9 +1,8 @@
 {
     "vin":"BAUNEEGFZ21051710",
-    "datum":"17.03.2022",
-    "zeit":"20:01:25",
-    "name":"thomas",
-    "comments":"toolkit test",
+    "datum":"22.03.2022",
+    "zeit":"09:44:21",
+    "total":"27",
     "ecus":[
         {
             "bezeichnung":"Electronic central electric",
@@ -12,7 +11,16 @@
             "hwversion":null,
             "sfdrole":"Unknown",
             "zdcname":"-----------",
-            "zdcversion":"test"
+            "zdcversion":"----"
+        },
+        {
+            "bezeichnung":"Distance regulation",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
         },
         {
             "bezeichnung":"instrument cluster",
@@ -21,7 +29,7 @@
             "hwversion":null,
             "sfdrole":"Unknown",
             "zdcname":"-----------",
-            "zdcversion":"test"
+            "zdcversion":"----"
         },
         {
             "bezeichnung":"Data Bus OBD Interface",
@@ -30,7 +38,7 @@
             "hwversion":"X13",
             "sfdrole":"Unknown",
             "zdcname":null,
-            "zdcversion":"test"
+            "zdcversion":null
         },
         {
             "bezeichnung":"Information electronics 1",
@@ -39,7 +47,7 @@
             "hwversion":"031",
             "sfdrole":"Unknown",
             "zdcname":"-----------",
-            "zdcversion":"test"
+            "zdcversion":"----"
         },
         {
             "bezeichnung":"Emergency call module and communication unit",
@@ -49,6 +57,197 @@
             "sfdrole":"Unknown",
             "zdcname":"-----------",
             "zdcversion":"----"
+        },
+        {
+            "bezeichnung":"Head-Up-Display",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Hybrid battery management",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Front sensor for drivers assistant systems",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Telemetric diagnosis control module",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Thermal management",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"charging device 1 for mobile end device",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Rear surroundings camera",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Multifunction Steering Wheel Control Module 3",
+            "swversion":"Y006",
+            "hwteilenummer":"85E951523A ",
+            "hwversion":"H07",
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Application server 1 system 2 Java",
+            "swversion":"G916",
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":"-----------",
+            "zdcversion":"----"
+        },
+        {
+            "bezeichnung":"Application server 3 system 1 infotainment",
+            "swversion":"J123",
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":"-----------",
+            "zdcversion":"----"
+        },
+        {
+            "bezeichnung":"Drive and chassis main control module",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Sound enhancement 3",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Main control module, vehicle electrical system 1",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Low-voltage power distributor 1",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"High-voltage central box",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Charging communication control module 1",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Charging communication control module 2",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Main control module, cockpit system 1 sound control",
+            "swversion":"J123",
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":"-----------",
+            "zdcversion":"----"
+        },
+        {
+            "bezeichnung":"Central display unit for multimedia system",
+            "swversion":"X082",
+            "hwteilenummer":"85E919606  ",
+            "hwversion":"H25",
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Passenger display unit for multimedia system",
+            "swversion":null,
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":null,
+            "zdcversion":null
+        },
+        {
+            "bezeichnung":"Main control module, cockpit system 3 Android",
+            "swversion":"J047",
+            "hwteilenummer":null,
+            "hwversion":null,
+            "sfdrole":"Unknown",
+            "zdcname":"-----------",
+            "zdcversion":"----"
         }
-    ]
+    ],
+    "name":"shang jie",
+    "comments":"test"
 }
