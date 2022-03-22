@@ -1,7 +1,7 @@
 {
     "vin":"BAUNEEGFZ21051710",
     "datum":"22.03.2022",
-    "zeit":"09:44:21",
+    "zeit":"09:45:20",
     "total":"27",
     "ecus":[
         {
@@ -248,6 +248,6 @@
             "zdcversion":"----"
         }
     ],
-    "name":"shang jie",
-    "comments":"test"
+    "name":"thomas",
+    "comments":"test2"
 }
