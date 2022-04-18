@@ -1,12 +1,12 @@
 {
     "vin":"BAUNEEGFZ21051710",
-    "datum":"02.04.2022",
-    "zeit":"15:57:40",
+    "datum":"18.04.2022",
+    "zeit":"11:48:49",
     "total":"27",
     "ecus":[
         {
             "bezeichnung":"Electronic central electric",
-            "swversion":"0308",
+            "swversion":"0307",
             "hwteilenummer":null,
             "hwversion":null,
             "sfdrole":"Unknown",
@@ -248,6 +248,6 @@
             "zdcversion":"----"
         }
     ],
-    "name":"thomas",
-    "comments":"308"
+    "name":"season",
+    "comments":"test 04-18"
 }
