@@ -1,7 +1,7 @@
 {
     "vin":"BAUNEEGFZ21051710",
-    "datum":"18.04.2022",
-    "zeit":"11:48:49",
+    "datum":"19.04.2022",
+    "zeit":"14:52:22",
     "total":"27",
     "ecus":[
         {
@@ -248,6 +248,6 @@
             "zdcversion":"----"
         }
     ],
-    "name":"season",
-    "comments":"test 04-18"
+    "name":"robert",
+    "comments":"test"
 }
